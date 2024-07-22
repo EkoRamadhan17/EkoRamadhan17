@@ -2,7 +2,7 @@
 Coding is my life,
 welcome to my repository,
 this is where I started my career
-let me know my name is eko ramadani i am a freelancer and content creator,
+let me know i am a freelancer and content creator,
 If you need guidance about web and coding, contact me on my social media.
 
 ### <summary><strong>Tools:</strong></summary>
