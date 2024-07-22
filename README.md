@@ -17,7 +17,7 @@ If you need guidance about web and coding, contact me on my social media.
     - :keyboard: I’m currently learning Front-end Web Developer. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:ekor4m4d4n1@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
+    - :cloud: Pronouns: Bro. </br>
     - :game_die: gaming and writing are part of me. </br>
 <p>
  
