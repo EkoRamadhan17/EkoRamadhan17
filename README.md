@@ -4,8 +4,6 @@ welcome to my repository,
 this is where I started my career
 let me know my name is eko ramadani i am a freelancer and content creator,
 If you need guidance about web and coding, contact me on my social media.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
@@ -22,9 +20,7 @@ If you need guidance about web and coding, contact me on my social media.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://img.shields.io/youtube/channel/views/:channelId" />
-</a>
+
 <a href="https://www.instagram.com/yours/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
